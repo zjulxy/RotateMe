@@ -1,0 +1,367 @@
+Using pre-set license
+Built from '2021.1/china_unity/release' branch; Version is '2021.1.5f1c1 (6e5a93ddf9be) revision 7232147'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19043.1415; Version 2009; 64bit' Language: 'zh' Physical Memory: 16238 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.5f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/13075/Desktop/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57227
+Successfully changed project path to: C:/Users/13075/Desktop/New Unity Project
+C:/Users/13075/Desktop/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 90.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.5f1c1 (6e5a93ddf9be)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.5f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/13075/Desktop/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     8119 MB
+    Driver:   27.20.100.9749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.5f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.5f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.5f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56636
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.5f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009211 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 132.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.752 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.449 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3118.
+Total: 3.078000 ms (FindLiveObjects: 0.535000 ms CreateObjectMapping: 0.210800 ms MarkObjects: 2.227600 ms  DeleteObjects: 0.103200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5dcec88efe4f9de0b481c584801de745') in 0.069860 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005271 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2659 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.9 MB.
+System memory in use after: 98.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3121.
+Total: 2.606600 ms (FindLiveObjects: 0.334500 ms CreateObjectMapping: 0.173800 ms MarkObjects: 2.054000 ms  DeleteObjects: 0.043400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 517.770463 seconds.
+  path: Packages/com.wangyi.rotate-me/Editor/NewAssembly.asmdef
+  artifactKey: Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Editor/NewAssembly.asmdef using Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef79d4b948e6cc18e1b91f932ef7a6ef') in 0.034205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.934652 seconds.
+  path: Packages/com.wangyi.rotate-me/Runtime
+  artifactKey: Guid(c2a98212bbc187b41925cdc271b1ac07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Runtime using Guid(c2a98212bbc187b41925cdc271b1ac07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76bbdf2bad87b1d56316cdf197d3b1ad') in 0.006342 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005390 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2659 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.9 MB.
+System memory in use after: 98.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3124.
+Total: 2.558000 ms (FindLiveObjects: 0.290200 ms CreateObjectMapping: 0.105800 ms MarkObjects: 2.116600 ms  DeleteObjects: 0.044400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.097812 seconds.
+  path: Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef
+  artifactKey: Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef using Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72b069d9293c09c5b94cf3cf6a527b6') in 0.007187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.365075 seconds.
+  path: Packages/com.wangyi.rotate-me/CHANGELOG.md
+  artifactKey: Guid(cf474578b83fcb048a4166de6d2bbe3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/CHANGELOG.md using Guid(cf474578b83fcb048a4166de6d2bbe3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92699e536db7184c02fd354c75e5f2ed') in 0.114176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.885000 seconds.
+  path: Packages/com.wangyi.rotate-me/Editor/NewAssembly.asmdef
+  artifactKey: Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Editor/NewAssembly.asmdef using Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b82d657fe964f1a21a47c1c2e50d35') in 0.003184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.257402 seconds.
+  path: Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef
+  artifactKey: Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef using Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499a7225eb30bb6782410a483a5bc7ce') in 0.005255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 912.528131 seconds.
+  path: Packages/com.wangyi.rotate-me/Editor/NewAssembly.asmdef
+  artifactKey: Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Editor/NewAssembly.asmdef using Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2661d6509ab43efc345bd196e181a37a') in 0.004882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.516383 seconds.
+  path: Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef
+  artifactKey: Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef using Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3aa0116a47f9ab59bcbdbe0f656afa0') in 0.003512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.739226 seconds.
+  path: Packages/com.wangyi.rotate-me/Editor
+  artifactKey: Guid(e6b0498732de2414093207b27206f5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Editor using Guid(e6b0498732de2414093207b27206f5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d7445d1a9b2aad58c9171e23e73b71') in 0.004276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.434150 seconds.
+  path: Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef
+  artifactKey: Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Runtime/NewAssembly.asmdef using Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36297816c486ec9dbdf578d8a66ba335') in 0.003240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.880292 seconds.
+  path: Packages/com.wangyi.rotate-me/Editor/Unity.RotateMe.Editor.asmdef
+  artifactKey: Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Editor/Unity.RotateMe.Editor.asmdef using Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa662dda7b493f0543b63e606873e86') in 0.003812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.853086 seconds.
+  path: Packages/com.wangyi.rotate-me/Runtime/Unity.RotateMe.Editor.asmdef
+  artifactKey: Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Runtime/Unity.RotateMe.Editor.asmdef using Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f141a06d49e1f811301777634d16b4b') in 0.004469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.203971 seconds.
+  path: Packages/com.wangyi.rotate-me/Runtime/Unity.RotateMe.Runtime.asmdef
+  artifactKey: Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Runtime/Unity.RotateMe.Runtime.asmdef using Guid(0022d0297d376274eb22fe9d05445267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4889bca116ed29b302b332d82a59c1') in 0.004194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.545333 seconds.
+  path: Packages/com.wangyi.rotate-me/Editor/Unity.RotateMe.Editor.asmdef
+  artifactKey: Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Editor/Unity.RotateMe.Editor.asmdef using Guid(da80b469620871b4b8cd07fb5b3cbf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f578ba6e4e23badf1242df00072273df') in 0.003314 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.222 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2659 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3127.
+Total: 2.655600 ms (FindLiveObjects: 0.355300 ms CreateObjectMapping: 0.140600 ms MarkObjects: 2.135300 ms  DeleteObjects: 0.023500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.783673 seconds.
+  path: Packages/com.wangyi.rotate-me/package.json
+  artifactKey: Guid(4ccb8cd5120c00444b26438503be22d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/package.json using Guid(4ccb8cd5120c00444b26438503be22d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c86549155325e711d4b806b590c0e7d') in 0.024142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.094676 seconds.
+  path: Packages/com.wangyi.rotate-me
+  artifactKey: Guid(9f49463551ce3447aa6394552178c9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me using Guid(9f49463551ce3447aa6394552178c9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f8a780a20e272315c06a4cbc0d594c') in 0.004711 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006189 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.061 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3131.
+Total: 2.598500 ms (FindLiveObjects: 0.368500 ms CreateObjectMapping: 0.144300 ms MarkObjects: 2.065800 ms  DeleteObjects: 0.018800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.170388 seconds.
+  path: Packages/com.wangyi.rotate-me/NewBehaviourScript.cs
+  artifactKey: Guid(0523408f1aec7db40acd1467a70966cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/NewBehaviourScript.cs using Guid(0523408f1aec7db40acd1467a70966cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327284d20796d8648011ed730074c379') in 0.013700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.311160 seconds.
+  path: Packages/com.wangyi.rotate-me/RotateMe.cs
+  artifactKey: Guid(0523408f1aec7db40acd1467a70966cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/RotateMe.cs using Guid(0523408f1aec7db40acd1467a70966cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67307056fbfdeb246eb93a5a7f7ebfa1') in 0.003439 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3134.
+Total: 2.563800 ms (FindLiveObjects: 0.328900 ms CreateObjectMapping: 0.116300 ms MarkObjects: 2.099000 ms  DeleteObjects: 0.018300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.226385 seconds.
+  path: Packages/com.wangyi.rotate-me/LICENSE.md
+  artifactKey: Guid(f263fa4e994fe784599fe34320b400cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/LICENSE.md using Guid(f263fa4e994fe784599fe34320b400cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e36bbcb17313af3cf94d1d9eba71ff9') in 0.012870 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3137.
+Total: 3.523900 ms (FindLiveObjects: 0.945600 ms CreateObjectMapping: 0.511900 ms MarkObjects: 2.028400 ms  DeleteObjects: 0.036400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.285177 seconds.
+  path: Packages/com.wangyi.rotate-me/RotateMe.cs
+  artifactKey: Guid(0523408f1aec7db40acd1467a70966cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/RotateMe.cs using Guid(0523408f1aec7db40acd1467a70966cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474774460b26d2560dca65d91cd735c0') in 0.006374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.182156 seconds.
+  path: Packages/com.wangyi.rotate-me/Demo.unity
+  artifactKey: Guid(bce362313f9aecd4b8a5a06d16de0f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.wangyi.rotate-me/Demo.unity using Guid(bce362313f9aecd4b8a5a06d16de0f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6c7bfb77ed12a4c16392396c7b48a1') in 0.011701 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007851 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 16.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.612 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3140.
+Total: 2.502000 ms (FindLiveObjects: 0.333600 ms CreateObjectMapping: 0.153900 ms MarkObjects: 1.989900 ms  DeleteObjects: 0.023200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007766 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.189 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3143.
+Total: 34.145500 ms (FindLiveObjects: 2.908200 ms CreateObjectMapping: 0.208000 ms MarkObjects: 30.067600 ms  DeleteObjects: 0.960300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1673.305073 seconds.
+  path: Assets/com.wangyi.RotateMe
+  artifactKey: Guid(2c99083d6c1616e4bb4ec18ba3e58cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/com.wangyi.RotateMe using Guid(2c99083d6c1616e4bb4ec18ba3e58cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6656b1d10db07ee64c3c46f836d4da') in 0.010286 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
